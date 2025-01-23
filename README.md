@@ -5,10 +5,11 @@
 Yii 2 Basic Project by Rio wenda
 
 Fitur :
-Role User Management
-Attachment Management
-Setting Authorized Menu For Users
-
+<ul>
+<li>Role User Management</li>
+<li>Attachment Management</li>
+<li>Setting Authorized Menu For Users</li>
+</ul>
 
 DIRECTORY STRUCTURE
 -------------------
